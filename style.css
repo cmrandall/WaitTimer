@@ -1,0 +1,52 @@
+
+
+.waitTime {
+    margin-top: 25%;
+}
+.waitTimeRow {
+    background-color:#be1d2c;
+    padding: 10px;
+    border: 3px solid #a10e21;
+}
+
+.siteDiv div {
+    color: #190e74;
+    font-weight: bold;
+}
+
+.siteDiv {
+    text-align: center;
+    background-color: white;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    padding: 0;
+    font-size: 9px;
+    border: 3px solid #a10e21;
+    border-radius: 10px;
+}
+
+.siteName {
+    color:#be1d2c ;
+    font-weight: bold;
+    font-size: 11px;
+}
+
+.waitColor {
+    font-size: 15px;
+}
+
+#waitHeader, #waitFooter {
+    color: white;
+    font-style: italic;
+}
+
+p,
+#waitHeader, 
+#waitFooter{
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    font-size: 10px;
+}

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<site_directory xmlns:xlink="http://www.w3.org/1999/xlink">
+  <site>
+    <site_name> Site #1 Urgent Care </site_name>
+    <site_waitTime> 5 </site_waitTime>
+    <site_addr><![CDATA[https://goo.gl/maps/cVjoaZZhCfKr3NrdA]]></site_addr>
+  </site>
+  <site>
+    <site_name> Site #2 Urgent Care </site_name>
+    <site_waitTime> 120 </site_waitTime>
+    <site_addr><![CDATA[https://goo.gl/maps/cVjoaZZhCfKr3NrdA]]></site_addr>
+  </site>
+  <site>
+    <site_name> Site #3 Urgent Care </site_name>
+    <site_waitTime> 3 </site_waitTime>
+    <site_addr><![CDATA[https://goo.gl/maps/cVjoaZZhCfKr3NrdA]]></site_addr>
+  </site>
+  <site>
+    <site_name> Site #4 Urgent Care </site_name>
+    <site_waitTime> 36 </site_waitTime>
+    <site_addr><![CDATA[https://goo.gl/maps/cVjoaZZhCfKr3NrdA]]></site_addr>
+  </site>
+</site_directory>
