@@ -1,7 +1,9 @@
-
+h1 {
+    margin-top 2%;
+}
 
 .waitTime {
-    margin-top: 25%;
+    margin-top: 10%;
 }
 .waitTimeRow {
     background-color:#be1d2c;
